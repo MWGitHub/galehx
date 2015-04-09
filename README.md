@@ -13,3 +13,5 @@ Features
   * Dynamic transforms for entities allows for rapid prototyping and provides great performance by caching the transforms lazily.
   * Inheritance support for nodes to add specific functionality to game objects.
   * Component support for nodes which allows for lower coupling when adding functionality to game objects.
+  * Export as a MovieClip which can be embedded in an AS3 project when one requires AS3 components.
+  * Export as a SWC library which allows for the game specific logic to be written in AS3 while the framework handles everything else.
