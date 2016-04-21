@@ -5,11 +5,11 @@ It handles everything from the game loop, rendering, sound, input, and game obje
 ###Some of the games made with galehx
 ###Blockgineer 2:
 
-![blockgineer2](http://www.submu.com/showcase/blockgineer-2/)
+[![blockgineer2]](http://www.submu.com/showcase/blockgineer-2/)
 
 ###Blockstachio
 
-![blockstachio](http://www.submu.com/showcase/blockstachio/)
+[![blockstachio]](http://www.submu.com/showcase/blockstachio/)
 
 ###Technical Details:
 * Gale haXe uses a mix between inheritance and composition for the main game objects which most objects will inherit from. Composition can be used to add behaviors to entities either at run time or initialization. This allows the programmer to choose if behaviors should be able to be inherited which trades easier entity creation at the cost of coupling.
